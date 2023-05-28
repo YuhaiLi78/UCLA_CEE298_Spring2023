@@ -1,0 +1,5 @@
+# Project 2 
+
+Herein, you'll find both our customized codebase and a collection of results demonstrating the impacts of our work. Each folder has a specific purpose:
+* `ws` __Workspace__: This is the nerve center of our project where the bulk of our developmental work took place. It comprises all the necessary codes, scripts, and tools we employed throughout the course of our project. The work is done by following the instructions in the repo: [tracking_lib](https://github.com/AutoLidarPerception/tracking_lib). Our contribution has been to explore and tweak certain parameters within this framework to yield a new set of results, which further our understanding of autonomous driving perception systems.    
+* `results` __Results Showcase__: This directory serves as a visual archive of our project's outcomes. It houses a collection of images and videos, each encapsulating various aspects of our findings. It showcases the tangible impacts of our parameter modifications and algorithmic tweaks.
